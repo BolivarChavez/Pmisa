@@ -1,0 +1,29 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Red Hat Text', sans-serif;
+}
+
+.main-area { 
+    position: relative; 
+    height: 100vh; 
+    z-index: 1; 
+    padding: 0; 
+    background-image: url(../Images/MantenimientoH.jpg);
+    background-size: cover;                  
+    background-repeat: no-repeat; 
+    background-position: center center;
+    color: #fff; 
+}
+
+.letter-color {
+    color: #1472B3;
+}
+
+li {
+    color: #1472B3;
+}
+
+a:hover {
+    color: #F76F1C;
+}

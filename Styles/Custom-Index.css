@@ -1,0 +1,107 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    font-family: 'Red Hat Text', sans-serif;
+}
+
+.pmi-altura-menu {
+    height: 100px;
+}
+
+.pmi-backcolor-menu {
+    background-color: #fcc19c;
+}
+
+.pmi-toggle-color {
+    color: #075a92;
+}
+
+nav.navbar li a {
+    color: #075a92;
+    font-weight: bold;
+}
+
+.pmi-banner1 {
+    height: 760px;
+    background-image: url(../Images/Banner1.png);
+    background-size: cover;                  
+    background-repeat: no-repeat center center;     
+}
+
+.pmi-letra-titulo-banner1 {
+    font-size: 65px;
+    font-weight: bold;
+    color: #f5600a;
+    text-shadow: 1px 1px 2px black;
+}
+
+.pmi-letra-parrafo-banner1 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #064b7a; 
+    text-shadow: 1px 1px 1px black;   
+}
+
+.pmi-letra-titulo-servicio1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #f5600a;
+}
+
+.pmi-letra-titulo-servicio2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #064b7a;
+}
+
+.pmi-letra-titulo-tiposervicio {
+    font-size: 25px;
+    font-weight: bolder;
+    color: #064b7a;    
+}
+
+.pmi-letra-titulo-descservicio {
+    font-size: 20px;
+    font-weight: bold;
+    color: #0a88db;    
+}
+
+.color-titulo {
+    color: #064b7a;
+    font-weight: bold;
+}
+
+.color-subtitulo {
+    color: #0a88db; 
+}
+
+.pmi-proyectos {
+    background-color: #fa9252;
+}
+
+.pmi-letra-titulo-proyecto {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.pmi-letra-desc-proyecto {
+    font-size: 20px;
+    color: white;
+}
+
+.pmi-contactos {
+    background-color: #fdd0b5;
+}
+
+.pmi-letra-titulo-contacto {
+    color: #064b7a;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.pmi-letra-desc-contacto {
+    font-size: 17px;
+    color: #064b7a;
+}
